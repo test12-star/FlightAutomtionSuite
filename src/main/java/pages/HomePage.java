@@ -25,7 +25,7 @@ public class HomePage {
 	@FindBy(xpath="//a[text()='REGISTER']")
 	public WebElement lnk_H_register;
 	
-	//Hello  - by XYZ persion
+	//Hello  - by ABC person
 	
 	public HomePage() {
 		driver = Utility.returnDriver();
